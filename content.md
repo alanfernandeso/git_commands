@@ -27,6 +27,8 @@ No dia a dia sempre recorro ao meu caderno de anotações para relembra alguns c
 
     o `-u` significa que a partir daquele momento quando o comando `git push` for executado os códigos que estiverem na branch master serão enviados para o repositório denomidado *origin*.
 
+   O argumento `--allow-unrelated-histories` é utilizado em alguns comandos Git, como `git pull` ou `git merge`, para permitir a mesclagem de histórias não relacionadas entre dois ramos (branches) ou repositórios.
+
 ⭐ `git status`: verifica em qual branch estou e se há algum arquivo (e quais) para ser commitado;
 
 ⭐ `git add`: adiciona o(s) arquivo(s) em nossa working tree.
